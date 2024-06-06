@@ -1,1 +1,1 @@
-chatgpt
+traductor con chatgpt
